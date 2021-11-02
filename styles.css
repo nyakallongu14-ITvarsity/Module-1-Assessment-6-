@@ -1,0 +1,116 @@
+#navbar a{
+    
+    color: purple;
+    float: left;
+    font-size: 20px;
+}
+
+div {
+    color: purple;
+    text-align: center;
+    font-size: 25px;
+    
+    
+}
+
+
+.container{
+    text-align:center;
+    display: flex;
+    justify-content: center; 
+    
+}
+
+.container img{
+    
+    width:170px;
+    height:170px;
+}
+
+.container p{
+    color:purple;
+    text-align: center;
+}
+
+#sunglasses img{
+    
+    width:200px;
+    height: 170px;
+    
+}
+
+#sunglasses p{
+    
+    color: purple;
+    text-align: center;
+    
+}
+.fragrances img{
+    
+    width:200px;
+    height: :170px;
+}
+
+.fragrances p{
+    color: purple;
+    text-align: center;
+}
+
+.backpacks img{
+    
+    width:200px;
+    height: 220px;
+}
+
+.backpacks p{
+    color: purple;
+    text-align: center;
+}
+#shoes img{
+    width:250px;
+    height: 200px;
+    
+}
+
+#shoes p {
+    color: purple;
+    text-align:center;
+}
+#shoes h1{
+    color: purple;
+}
+
+.sneakers img{
+     width:200px;
+    height: 200px;
+    
+}
+
+.sneakers p{
+    color: purple;
+    text-align: center;
+}
+
+form{
+   
+    color: purple;
+    border-radius: 10px; 
+    position: fixed;
+    
+}
+
+input{
+    border-radius: none;
+    font-size: 10px; 
+    width: 300px;
+    height: 50px;
+   
+        
+}
+
+.contact{
+    text-align: center;
+    font-size:15px;
+}
+
+

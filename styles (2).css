@@ -1,0 +1,51 @@
+.navbar{
+    
+    float: left;
+    background-color: whitesmoke;
+    padding: 12px 500px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+div{
+    display: flex;
+    justify-content: center;
+     
+    
+}
+body{
+    background-color: cadetblue;
+}
+
+
+.container{
+    text-align: center;
+
+    
+}
+
+.body{
+    background-color: cadetblue;
+    
+}
+
+.shoes
+{
+    background-color:cadetblue;
+
+    
+}
+
+.sunglasses{
+    
+    background-color: cadetblue;
+    display: flex;
+}
+
+
+#container{
+  
+    display: block;
+}
+
